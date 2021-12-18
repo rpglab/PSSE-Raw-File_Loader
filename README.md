@@ -9,19 +9,13 @@ Note that this program read all data in the raw file except for multi-terminal D
 
 It takes less than 1 second to load all the data even for a large-scale system.
 
-## Test cases
+Three test cases are also uploaded here for users' convenience. They are described below:
 
-### IEEE 14-bus test system
-The original data of this test case are from the link below (in IEEE Common Data Format (ieee14cdf.txt)):
-https://labs.ece.uw.edu/pstca/pf14/ieee14cdf.txt
+IEEE 14-bus test system: the original data of this test case are from the link below (in IEEE Common Data Format (ieee14cdf.txt)): https://labs.ece.uw.edu/pstca/pf14/ieee14cdf.txt
 
+IEEE 118-bus test system: The original data of this test case are from the link below (in IEEE Common Data Format (ieee118cdf.txt)): https://labs.ece.uw.edu/pstca/pf118/ieee118cdf.txt
 
-### IEEE 118-bus test system
-The original data of this test case are from the link below (in IEEE Common Data Format (ieee118cdf.txt)):
-https://labs.ece.uw.edu/pstca/pf118/ieee118cdf.txt
-
-### 2383-bus Polish system
-This test case was converted from matpower (https://matpower.org/). The data was provided by Roman Korab (roman.korab@polsl.pl).
+2383-bus Polish system: This test case was converted from matpower (https://matpower.org/). The data was provided by Roman Korab (roman.korab@polsl.pl).
 
 
 ## Contact:
