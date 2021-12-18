@@ -5,7 +5,7 @@ The main program/file is *PsseRawModel.java* in the package 'psseraw'.
 
 For the path-to-raw-file, you can use relative path if in the folder with the codes, or use absolute path.
 
-Note that this program read all data in the raw file except for multi-terminal DC transmission Lines, GNE devices, and Induction Machines. All loaded data are stored in the instance of PsseRawModel.java.
+Note that this program reads all the data in the raw file except for multi-terminal DC transmission Lines, GNE devices, and Induction Machines. All loaded data are stored in the instance of PsseRawModel.java.
 
 It takes less than 1 second to load all the data even for a large-scale system.
 
