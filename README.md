@@ -1,5 +1,5 @@
 # PSSE-Raw-File Loader
-This is a set of Java codes that load PSS/E raw files. So far, it can only handle versions 32 and 33. Also, version number must be manually specified to ensure data are correctly loaded. Default values will be used when some data are not available. IDs, Names may contain blank space.
+This is a set of Java codes that load PSS/E raw files. So far, it can handle versions 32 and 33. Note that version number must be manually specified to ensure data are correctly loaded. Default values will be used when some data are not available. IDs, Names may contain blank space.
 
 The main program/file is *PsseRawModel.java* in the package 'psseraw'.
 
