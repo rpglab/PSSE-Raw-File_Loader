@@ -13,6 +13,7 @@ import psseraw.elements.base.OneTermDevListBase;
  * Switched shunt entry data from .raw file.
  * 
  * @author Xingpeng Li (xplipower@gmail.com)
+ *         Website: https://rpglab.github.io/
  *
  */
 public class SwitchedShuntList extends OneTermDevListBase {

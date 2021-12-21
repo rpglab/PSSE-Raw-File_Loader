@@ -7,6 +7,12 @@ import java.util.ArrayList;
 import psseraw.PsseRawModel;
 import psseraw.elements.AuxMethod;
 
+/**
+ * 
+ * @author Xingpeng Li (xplipower@gmail.com)
+ *         Website: https://rpglab.github.io/
+ *
+ */
 public class TransformerPre {
 
 	Transformer2List _xfm2;

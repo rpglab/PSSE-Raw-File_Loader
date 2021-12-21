@@ -6,6 +6,7 @@ import psseraw.PsseRawModel;
  * All 3-winding transformer including phase shifter
  * 
  * @author Xingpeng Li (xplipower@gmail.com)
+ *         Website: https://rpglab.github.io/
  * 
  */
 public class Xfm3W {

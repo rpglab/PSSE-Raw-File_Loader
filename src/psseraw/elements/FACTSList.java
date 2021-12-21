@@ -12,6 +12,7 @@ import psseraw.elements.AuxMethod;
  * FACTS device entry data from .raw file.
  * 
  * @author Xingpeng Li (xplipower@gmail.com)
+ *         Website: https://rpglab.github.io/
  *
  */
 public class FACTSList {

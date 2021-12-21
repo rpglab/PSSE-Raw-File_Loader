@@ -9,6 +9,7 @@ import psseraw.elements.AuxMethod;
 /**
  * 
  * @author Xingpeng Li (xplipower@gmail.com)
+ *         Website: https://rpglab.github.io/
  *
  */
 public class InductionMachineList {

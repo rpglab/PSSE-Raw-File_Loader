@@ -40,6 +40,7 @@ import psseraw.elements.ZoneList;
  * IDs, Names may contain blank space.
  * 
  * @author Xingpeng Li (xplipower@gmail.com)
+ *         Website: https://rpglab.github.io/
  *
  */
 public class PsseRawModel {

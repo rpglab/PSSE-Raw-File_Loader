@@ -12,6 +12,7 @@ import psseraw.elements.AuxMethod;
  * Transformer impedance correction table entry data from .raw file.
  * 
  * @author Xingpeng Li (xplipower@gmail.com)
+ *         Website: https://rpglab.github.io/
  *
  */
 public class XfmImpdCrctList {

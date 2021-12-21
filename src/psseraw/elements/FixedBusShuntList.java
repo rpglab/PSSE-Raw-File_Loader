@@ -13,6 +13,7 @@ import psseraw.elements.base.OneTermDevListBase;
  * Fixed Bus Shunt entry data from .raw file.
  * 
  * @author Xingpeng Li (xplipower@gmail.com)
+ *         Website: https://rpglab.github.io/
  *
  */
 public class FixedBusShuntList extends OneTermDevListBase {

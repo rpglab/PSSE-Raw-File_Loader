@@ -12,6 +12,7 @@ import psseraw.elements.AuxMethod;
  * Multi-section line grouping entry data from .raw file.
  * 
  * @author Xingpeng Li (xplipower@gmail.com)
+ *         Website: https://rpglab.github.io/
  *
  */
 public class MultiSectionLineGrpList {

@@ -10,6 +10,7 @@ import psseraw.PsseRawModel;
  * Phase shifter is not included in this class.
  * 
  * @author Xingpeng Li (xplipower@gmail.com)
+ *         Website: https://rpglab.github.io/
  *
  */
 public class Transformer2List {

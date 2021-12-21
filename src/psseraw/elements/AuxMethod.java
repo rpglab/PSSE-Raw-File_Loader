@@ -5,6 +5,7 @@ import java.util.ArrayList;
 /**
  * 
  * @author Xingpeng Li (xplipower@gmail.com)
+ *         Website: https://rpglab.github.io/
  *
  */
 public class AuxMethod {

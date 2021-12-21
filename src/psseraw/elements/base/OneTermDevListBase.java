@@ -3,6 +3,12 @@ package psseraw.elements.base;
 import psseraw.PsseRawModel;
 import psseraw.elements.BusList;
 
+/**
+ * 
+ * @author Xingpeng Li (xplipower@gmail.com)
+ *         Website: https://rpglab.github.io/
+ *
+ */
 public class OneTermDevListBase {
 	
 	protected PsseRawModel _model;

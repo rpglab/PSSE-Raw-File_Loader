@@ -11,6 +11,7 @@ import psseraw.elements.AuxMethod;
  * GNE device entry data from .raw file.
  * 
  * @author Xingpeng Li (xplipower@gmail.com)
+ *         Website: https://rpglab.github.io/
  *
  */
 public class GNEList {

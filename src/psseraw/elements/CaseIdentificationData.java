@@ -8,6 +8,7 @@ import psseraw.PsseRawModel;
 /**
  * 
  * @author Xingpeng Li (xplipower@gmail.com)
+ *         Website: https://rpglab.github.io/
  *
  */
 public class CaseIdentificationData {

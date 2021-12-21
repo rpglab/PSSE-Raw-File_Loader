@@ -13,6 +13,7 @@ import psseraw.elements.base.OneTermDevListBase;
  * Generator entry data from .raw file.
  * 
  * @author Xingpeng Li (xplipower@gmail.com)
+ *         Website: https://rpglab.github.io/
  *
  */
 public class GenList extends OneTermDevListBase {
